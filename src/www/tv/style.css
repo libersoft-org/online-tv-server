@@ -1,0 +1,10 @@
+body {
+ font-family: Verdana, Tahoma, Helvetica, Arial;
+ color: #000000;
+ background-color: #DDDDDD;
+}
+
+video {
+ width: 720px;
+ max-width: 100%;
+}

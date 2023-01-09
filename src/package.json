@@ -1,0 +1,7 @@
+{
+ "dependencies": {
+  "express": "*",
+  "http2-express-bridge": "*",
+  "readline-sync": "*"
+ }
+}
