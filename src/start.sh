@@ -1,3 +1,3 @@
 #!/bin/sh
 
-screen -dmS newmail node index.js
+screen -dmS tv node index.js
