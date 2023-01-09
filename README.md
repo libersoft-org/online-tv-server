@@ -97,7 +97,7 @@ screen -x tv
 
 To detach screen press **CTRL+A** and then **CTRL+D**.
 
-## Play your online TV:
+## Play your online TV
 
 You can view your online TV using:
 
